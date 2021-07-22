@@ -1,6 +1,6 @@
 ### Hi, it's Vladimir 🤙
 
-### I'm a Frontend developer and happy to be 
+### I'm a Frontend developer
 
 - 🎓 I’m currently learning Flutter
 - 🤩 I'm in love with skateboard, snowboard and all other boards, haha
