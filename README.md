@@ -1,4 +1,4 @@
-### Hi, it's Vladimir 🤙
+<!-- ### Hi, it's Vladimir 🤙
 
 ### I'm a Frontend developer
 
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 
 [instagram]: https://instagram.com/vovavasilev
 [linkedin]: https://linkedin.com/in/vladimir-vasilev-879574193
+ -->
